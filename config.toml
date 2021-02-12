@@ -1,0 +1,4 @@
+baseURL = "https://walldecor-izee5.vercel.app"
+languageCode = "en-us"
+title = "Wall Decor 2021"
+theme = "hugo-theme-minos"
